@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Цифровой ассистент
 
 ## Выполнил
@@ -26,3 +27,6 @@ git branch -M main
 git remote add origin https://github.com/ВАШ_ЛОГИН/doc-assistant-savelyev.git
 git push -u origin main
 ```
+=======
+# doc-assistant
+>>>>>>> 72d3834e10ce3fb2ec648d9c5df60363ceb8e1e4
